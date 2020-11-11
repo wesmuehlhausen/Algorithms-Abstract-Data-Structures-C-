@@ -1,0 +1,4 @@
+This repo contains projects on a mix of topics related to data structures, algorithms, and C++ programming. Topics related to data structures include hash tables, binary search trees, balanced binary trees, and heaps.
+Topics related to algorithms include sorting and searching as well as basic ideas in complexity analysis. Finally, topics
+related to C++ include abstract classes, inheritance, templates, and operator overloading as appropriate.
+
